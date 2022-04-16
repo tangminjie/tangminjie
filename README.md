@@ -1,4 +1,17 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tangminjie "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
+🤔 I’m looking for Web3 and Samrt Contract Job!
+
+Visitor ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+
+## About My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangminjie&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangminjie&show_icons=true&theme=tokyonight)
+
 
 <!--
 **tangminjie/tangminjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tangminjie "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
