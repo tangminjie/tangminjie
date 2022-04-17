@@ -1,7 +1,8 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tangminjie "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
-🤔 I’m looking for Web3 and Samrt Contract Job!
+## About Me
+
+🤔 I’m looking for crypto and Samrt Contract Job!
 
 Visitor ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
